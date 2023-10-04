@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\bin\Debug\RadioButtonControl.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\bin\Debug\RadioButtonControl.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\bin\Debug\RadioButtonControl.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\RadioButtonControl\obj\Debug\RadioButtonControl.pdb
